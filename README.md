@@ -9,7 +9,7 @@
 ## Schematics:
 Reference for wiring the components:
 
-![Schematics](https://github.com/mackfranziska/coin-flipping-machine/blob/master/stepper-motor-schematic.png)
+![Schematics](https://github.com/mackfranziska/coin-flipping-machine/blob/master/images/stepper-schematic.png)
 
 How to connect the driver board:
 
